@@ -1,6 +1,6 @@
 ## 说明
 ```
-git clone --depth=1 https://github.com/Nas32op/coderun.githttps://github.com/Nas32op/coderun.git ./plugins/coderun/
+git clone --depth=1 https://github.com/Nas32op/coderun.git ./plugins/coderun/
 pnpm install -P
 ```
 ---
