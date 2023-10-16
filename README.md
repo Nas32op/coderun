@@ -1,6 +1,6 @@
 ## 说明
 ```
-git clone https://github.com/babanbang/bujidaoRUN.git ./plugins/bujidao/
+git clone --depth=1 https://github.com/Nas32op/coderun.githttps://github.com/Nas32op/coderun.git ./plugins/coderun/
 ```
 ---
 | 指令 | 说明|
